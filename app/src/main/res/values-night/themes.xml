@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Guru2_App" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- colorPrimaryVariant : 상태 표시줄을 나타내는 색상 설정-->
+        <item name="colorPrimaryVariant">@color/white</item>
+
+    </style>
+</resources>
