@@ -37,7 +37,7 @@
             android:id="@+id/progressBar"
             android:layout_width="300dp"
             android:layout_height="40dp"
-            android:progressDrawable="@drawable/custom_progress_bg"
+            android:progressDrawable="@drawable/custom_progress"
             style="?android:attr/progressBarStyleHorizontal"
             android:max="100" />
 
